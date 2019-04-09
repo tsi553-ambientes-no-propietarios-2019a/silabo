@@ -30,7 +30,9 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   * Introducción a la materia y explicación de la metodología de trabajo.
   * **Deber**
     * Investigar sobre git y realizar el ejercicio de crear un repositorio en Github y subir cambios mediante la línea de comandos.
-
+    
+### Git e Intro a PHP    
+  * [Ramas en Git](https://nvie.com/posts/a-successful-git-branching-model/)
 
 
 ## Deberes/Proyectos
