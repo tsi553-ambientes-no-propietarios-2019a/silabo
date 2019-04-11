@@ -31,8 +31,14 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   * **Deber**
     * Investigar sobre git y realizar el ejercicio de crear un repositorio en Github y subir cambios mediante la línea de comandos.
     
-### Git e Intro a PHP    
+### Clase 2 - Git e Intro a PHP (09/04/2019)
   * [Ramas en Git](https://nvie.com/posts/a-successful-git-branching-model/)
+  * **Deber** Crear una tabla HTML a partir de un arreglo PHP. Subir el código en el repositorio que se crea al hacer clic [aquí](https://classroom.github.com/a/pExSQ8SJ).
+  * | Nombre              | Apellido | Edad
+    | ----------------------  | ---------- | ------- |
+    | Carlos        | Granda        | 32 |
+    | Juan     | Martinez        | 31 |
+    | María          | Jimenez        | 22 |
 
 
 ## Deberes/Proyectos
