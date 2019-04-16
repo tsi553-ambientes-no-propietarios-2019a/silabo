@@ -49,15 +49,6 @@ Todas las tareas serán listadas en el [Calendario del Curso](#calendario).
 
 Todos los deberes deberán ser entregados **únicamente** vía [Turnitin](https://www.turnitin.com) en los deberes correspondientes y en las fechas indicadas.
 
-## Peerwise
-
-* Ingresar a [PeerWise](https://peerwise.cs.auckland.ac.nz)
-* Registrarse con el usuario del tipo `nombreapellido`
-* **ID del curso:** 19134, su identificador es su email personal registrado en el SAEw.
-* Realizar al menos 5 preguntas semanales en PeerWise relacionadas con la materia. Preguntas de opción múltiple. Pueden ser ejercicios similares a los deberes o videos.
-* Responder al menos 5 preguntas semanales de sus compañeros.
-* La nota será definida según la participación que hayan tenido en PeerWise, el tipo de preguntas que hayan realizado y el número de preguntas que hayan respondido y la dificultad de las preguntas respondidas.
-
 ## Calificaciones
 
 | Evaluación              | Valoración |
