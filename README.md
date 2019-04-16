@@ -40,7 +40,10 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
     | Juan     | Martinez        | 31 |
     | María          | Jimenez        | 22 |
 
-
+### Clase 3 - Repaso y ejercicios PHP (16/04/2019)
+  * Repaso PHP
+  * Ejercicios
+  
 ## Deberes/Proyectos
 
 Cada semana se irá actualizando este sílabo para listar los deberes de cada semana, ejercicios en el aula y los proyectos.
