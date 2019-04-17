@@ -43,6 +43,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 ### Clase 3 - Repaso y ejercicios PHP (16/04/2019)
   * Repaso PHP
   * [Ejercicios](https://classroom.github.com/a/LrQjPie2)
+  * **Ejercicios 3 y 4 opcionales**
   
 ## Deberes/Proyectos
 
