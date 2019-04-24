@@ -45,6 +45,9 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   * [Ejercicios](https://classroom.github.com/a/LrQjPie2)
   * **Ejercicios 3 y 4 opcionales**
   
+### Clase 4 - Formularios PHP
+  * Ejercicios. [Crear repo](https://classroom.github.com/a/pzm99FwG)
+  
 ## Deberes/Proyectos
 
 Cada semana se irá actualizando este sílabo para listar los deberes de cada semana, ejercicios en el aula y los proyectos.
