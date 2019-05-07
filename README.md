@@ -45,9 +45,22 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   * [Ejercicios](https://classroom.github.com/a/LrQjPie2)
   * **Ejercicios 3 y 4 opcionales**
   
-### Clase 4 - Formularios PHP
+### Clase 4 - Formularios PHP (23-04-2019)
   * Ejercicios. [Crear repo](https://classroom.github.com/a/pzm99FwG)
   
+### Clase 5 - Sesiones en PHP (30-04-2019)
+  * Definición de temas de proyectos
+  * Elaborar documento con definición de proyecto:
+    * Tema
+    * Descripción
+    * Tipo de usuarios
+    * Flujo principal
+    * Modelo E-R
+
+### Clase 6 - MySQL y PHP (07-05-2019)
+  * Ejercicios. [Crear repo](https://classroom.github.com/a/XfjwvA0p)
+
+
 ## Deberes/Proyectos
 
 Cada semana se irá actualizando este sílabo para listar los deberes de cada semana, ejercicios en el aula y los proyectos.
