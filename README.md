@@ -60,6 +60,8 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 ### Clase 6 - MySQL y PHP (07-05-2019)
   * Ejercicios. [Crear repo](https://classroom.github.com/a/XfjwvA0p)
 
+### Clase 7 - Prueba
+  * [Crear repo](https://classroom.github.com/a/LpUNT6Wl)
 
 ## Deberes/Proyectos
 
