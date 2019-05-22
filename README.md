@@ -65,6 +65,40 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   
 ### Clase 8 - Corrección Prueba
   * Ejercicio de lista de tiendas [Crear repo](https://classroom.github.com/a/L9yU75yO)
+  * [Crear repositorio grupal](https://classroom.github.com/g/XzmhXR73)
+  * **Grupos**
+    * **Grupo 1**
+      * FLORES TAMAYO GENARO DANIEL
+      * JARAMILLO GUTIERREZ FRANCISCO XAVIER
+      * GUERRERO VELASCO BRYAN DAVID
+      * POZO JACOME MIGUEL ANGEL
+      * LLUMIQUINGA LLUMIQUINGA JEFFERSON RICARDO
+    * **Grupo 2**
+      * PEÑAHERRERA SALTOS OSCAR MATEO
+      * PEREZ QUISHPE ELVIS MARTIN
+      * SANMARTIN CARRILLO LUIS FERNANDO
+      * TACURI LUNA ANTHONY BRYAN
+      * HEREDIA IZA ALBERTO ALFONSO
+    * **Grupo 3**
+      * ANALUISA PINEIDA HECTOR DAVID
+      * SOTO BERMELLO KELLY BETSABHE
+      * RODRIGUEZ REINOSO DAYANA LISSETH
+      * DIAZ CANDO JEFFERSON OMAR
+    * **Grupo 4**
+      * LUCERO CHAMAZA CARLOS ISMAEL
+      * ESPIN TRUJILLO VICTOR OMAR
+      * NARVAEZ VALDEZ DIANA JANNETH
+      * NUÑEZ JIMENEZ DENNIS ALEXIS
+    * **Grupo 5**
+      * CORTEZ MALDONADO JOSE GONZALO
+      * JUMBO JUMBO EDISON STALIN
+      * MAINATO CAMAS CHRISTIAN DAVID
+      * CURAY LASLUISA KEVIN ALEXANDER
+    * **Grupo 6**
+      * LOPEZ VIVAS CHARLIE ALEJANDRO
+      * CRUZ RAMIREZ AARON DAVID
+      * FARIAS CAICEDO CARLOS ANDRES
+      * AGUILAR MOLINA ESTEFANIA PAMELA
 
 ## Deberes/Proyectos
 
