@@ -62,6 +62,9 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 
 ### Clase 7 - Prueba
   * [Crear repo](https://classroom.github.com/a/LpUNT6Wl)
+  
+### Clase 8 - Corrección Prueba
+  * Ejercicio de lista de tiendas [Crear repo](https://classroom.github.com/a/L9yU75yO)
 
 ## Deberes/Proyectos
 
