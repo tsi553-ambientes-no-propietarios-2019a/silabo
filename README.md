@@ -99,6 +99,9 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
       * CRUZ RAMIREZ AARON DAVID
       * FARIAS CAICEDO CARLOS ANDRES
       * AGUILAR MOLINA ESTEFANIA PAMELA
+      
+### Clase 9 Examen
+  * [Crear repo](https://classroom.github.com/a/dn15yS-e)
 
 ## Deberes/Proyectos
 
