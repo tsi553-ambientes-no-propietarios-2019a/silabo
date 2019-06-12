@@ -102,7 +102,25 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
       
 ### Clase 9 Examen
   * [Crear repo](https://classroom.github.com/a/dn15yS-e)
+  
+### Clase 10 Proyectos presentaciones
 
+### Clase 11 Intro a Symfony
+  * Pasos para evitar problema de timeout
+    1. Ejecutar los siguientes comandos
+    ```
+    sudo apt-get install php
+    sudo apt-get install php-pear php-fpm php-dev php-zip php-curl php-xmlrpc php-gd php-mysql php-mbstring php-xml libapache2-mod-php
+    sudo apt-get install php7.2-sqlite3
+    ```
+    2. Ejecutar 
+    ```
+    sudo nano /etc/hosts
+    ```
+    al final de archivo copiar la siguiente línea:
+    ```
+    142.44.164.255 repo.packagist.org
+    ```
 ## Deberes/Proyectos
 
 Cada semana se irá actualizando este sílabo para listar los deberes de cada semana, ejercicios en el aula y los proyectos.
