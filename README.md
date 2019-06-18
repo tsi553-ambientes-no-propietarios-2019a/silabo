@@ -124,7 +124,15 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   * [Entregar informe symfony](https://classroom.github.com/a/HxHMZfRq)
   
 ### Clase 12 Symfony
-  *
+  * Installing & Setting up the Symfony Framework. https://symfony.com/doc/current/setup.html
+  * Create your First Page in Symfony. https://symfony.com/doc/current/page_creation.html
+  * Routing. https://symfony.com/doc/current/routing.html
+  * Controller. https://symfony.com/doc/current/controller.html
+  * Creating and Using Templates. https://symfony.com/doc/current/templating.html
+  * Databases and the Doctrine ORM. https://symfony.com/doc/current/doctrine.html
+  * Forms. https://symfony.com/doc/current/forms.html
+  * FOS USER BUNDLE. http://symfony.com/doc/master/bundles/FOSUserBundle/index.html
+
   
   
 ## Deberes/Proyectos
