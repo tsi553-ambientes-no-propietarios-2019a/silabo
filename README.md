@@ -121,6 +121,12 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
     ```
     142.44.164.255 repo.packagist.org
     ```
+  * [Entregar informe symfony](https://classroom.github.com/a/HxHMZfRq)
+  
+### Clase 12 Symfony
+  *
+  
+  
 ## Deberes/Proyectos
 
 Cada semana se irá actualizando este sílabo para listar los deberes de cada semana, ejercicios en el aula y los proyectos.
