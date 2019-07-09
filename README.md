@@ -148,6 +148,12 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
       
  ### Clase 14 - FOS User Bundle Symfony 4
    * [Instalar FOSUserBundle en Symfony 4](https://vfac.fr/blog/how-install-fosuserbundle-with-symfony-4)
+   * [Personalizar rutas de FOSUserBundle](https://symfony.com/doc/2.0/bundles/FOSUserBundle/routing.html)
+     * Dentro de `config/routes/fos_user.yaml`
+   * [Personalizar templates de FOSUSerBundle](https://symfony.com/doc/current/bundles/override.html#templates)
+   * [Inicio de sesión con Email o username](https://symfony.com/doc/current/bundles/FOSUserBundle/logging_by_username_or_email.html)
+   * [Envío de emails](https://symfony.com/doc/current/bundles/FOSUserBundle/emails.html)
+   * 
   
   
 ## Deberes/Proyectos
