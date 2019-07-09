@@ -145,6 +145,9 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
       * Todas las pantallas deben tener asociado un template en twig. Asegurarse de leer la sección de templates de la documentación de Symfony.
       * Dividir el tabajo entre los miembros del grupo según las entidades, controladores, plantillas, etc.
       * Crear las ramas necesarias en git para poder trabajar correctamente en equipo sin que exista conflictos de código.
+      
+ ### Clase 14 - FOS User Bundle Symfony 4
+   * [Instalar FOSUserBundle en Symfony 4](https://vfac.fr/blog/how-install-fosuserbundle-with-symfony-4)
   
   
 ## Deberes/Proyectos
