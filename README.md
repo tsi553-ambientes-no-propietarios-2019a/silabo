@@ -153,7 +153,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
    * [Personalizar templates de FOSUSerBundle](https://symfony.com/doc/current/bundles/override.html#templates)
    * [Inicio de sesión con Email o username](https://symfony.com/doc/current/bundles/FOSUserBundle/logging_by_username_or_email.html)
    * [Envío de emails](https://symfony.com/doc/current/bundles/FOSUserBundle/emails.html)
-   * 
+   * [Personalizar fomrularios de FOSUserBundle](https://symfony.com/doc/current/bundles/FOSUserBundle/overriding_forms.html)
   
   
 ## Deberes/Proyectos
