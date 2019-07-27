@@ -156,6 +156,26 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
    * [Personalizar fomrularios de FOSUserBundle](https://symfony.com/doc/current/bundles/FOSUserBundle/overriding_forms.html)
    * [Subir imagenes o archivos](https://symfony.com/doc/master/bundles/EasyAdminBundle/integration/vichuploaderbundle.html)
   
+ ### EXAMEN
+  1. Crear y clonar el repositorio base: (Crear repo)[https://classroom.github.com/a/jXgDP_eR]
+  1. Controlar que las páginas de administración de ciudades y paises solo puedan ser accedidas por los usuarios con el role: ROLE_SUPER_ADMIN. Se debe aumentar también los items en el menú "Ciudades" y "Países" pero estos serán visibles solo para los usuarios con el rol: ROLE_SUPER_ADMIN.
+  1. En la página http://localhost:8000/producto/ se deben mostrar los links de "Edit" y "Create new" solamente para los usuarios que tienen el ROLE_SUPER_ADMIN.
+  1. En la página http://localhost:8000/producto/{id} mostrar un link "COMPRAR" (`/comprar/{product_id}`) que registre la compra en la base de datos, esta página es visible solo para los usuarios que tienen una sesión iniciada. La entidad compra tendrá los atributos:
+      ```
+       id
+       product (el producto que compró, este se lo toma desde el parametro GET {product_id})
+       user (el usuario que tiene la sesión activa)
+       date (la fecha actual)
+       ```
+      **Nota:** el link "COMPRAR" debe trabajar similar al link "delete", es decir al hacer clic se debe presentar un alert de  confirmación y la compra solo se registrará si el usuario confirma la compra.
+  1. Crear una página http://localhost:8000/compras/ que permita ver la lista de compras que se han realizado. Esta página es solo accesible para los usuarios con ROLE_SUPER_ADMIN.
+  
+  | Fecha         | Producto  | Usuario |
+  | --------------| --------- | ------- |
+  | 01/07/2019    | Monitor   | Chalo   |
+  | 01/07/2019    | Mouse     | Juan    |
+  | 02/07/2019    | Teclado   | Chalo   |
+  | 03/07/2019    | RAM       | María   |
   
 ## Deberes/Proyectos
 
