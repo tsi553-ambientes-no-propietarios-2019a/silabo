@@ -157,7 +157,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
    * [Subir imagenes o archivos](https://symfony.com/doc/master/bundles/EasyAdminBundle/integration/vichuploaderbundle.html)
   
  ### EXAMEN
-  1. Crear y clonar el repositorio base: (Crear repo)[https://classroom.github.com/a/jXgDP_eR]
+  1. Crear y clonar el repositorio base: [Crear repo](https://classroom.github.com/a/jXgDP_eR)
   1. Controlar que las páginas de administración de ciudades y paises solo puedan ser accedidas por los usuarios con el role: ROLE_SUPER_ADMIN. Se debe aumentar también los items en el menú "Ciudades" y "Países" pero estos serán visibles solo para los usuarios con el rol: ROLE_SUPER_ADMIN.
   1. En la página http://localhost:8000/producto/ se deben mostrar los links de "Edit" y "Create new" solamente para los usuarios que tienen el ROLE_SUPER_ADMIN.
   1. En la página http://localhost:8000/producto/{id} mostrar un link "COMPRAR" (`/comprar/{product_id}`) que registre la compra en la base de datos, esta página es visible solo para los usuarios que tienen una sesión iniciada. La entidad compra tendrá los atributos:
