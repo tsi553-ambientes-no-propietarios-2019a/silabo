@@ -177,6 +177,11 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   | 02/07/2019    | Teclado   | Chalo   |
   | 03/07/2019    | RAM       | María   |
   
+  
+## EXAMEN FINAL
+ * [Crear repo](https://classroom.github.com/a/PWwn42xj)
+ 
+ 
 ## Deberes/Proyectos
 
 Cada semana se irá actualizando este sílabo para listar los deberes de cada semana, ejercicios en el aula y los proyectos.
