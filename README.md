@@ -181,6 +181,13 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 ## EXAMEN FINAL
  * [Crear repo](https://classroom.github.com/a/PWwn42xj)
  
+# Ejercicio
+ * Descargar el ejemplo de [gestion-productos](https://github.com/tsi553-ambientes-no-propietarios-2019a/gestion-productos)
+ * Copiar este proyecto en su repositorio de examen-final
+ * Sobre este sistema de gestión de productos hacer lo siguiente:
+   * Permitir que los usuarios con sesión activa en el sistema puedan escribir comentarios sobre cada producto.
+   * Los productos y comentarios pueden ser vistos por cualquier persona que ingrese al sistema sin necesidad de iniciar sesión.
+ 
  
 ## Deberes/Proyectos
 
